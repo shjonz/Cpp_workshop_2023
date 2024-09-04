@@ -19,14 +19,6 @@ Lesson plan
 - Make 2 LEDs blink simultaneously
 
 
-## Shj Solution Demo
-----
-
-Images
-
-
-Video Demo
-
 
 ## Installation
 ---
